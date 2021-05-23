@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    background-size: cover;
+    text-align: center;
+}
+.heading {
+    border-width: 5px;
+    border-color: black;
+    border-style: double;
+    border-radius: 10px;
+    color: white !important;
+    background: rgb(255,0,79);
+    background: linear-gradient(180deg, rgba(255,0,79,1) 0%, rgba(255,0,130,1) 25%, rgba(255,0,186,1) 50%, rgba(242,0,255,1) 75%, rgba(191,0,255,1) 100%);
+}
+.heading {
+    top: 0;
+}
+#status, #image, #button {
+    border-width: 5px;
+    border-color: black;
+    border-style: double;
+    border-radius: 10px;
+    color: white !important;
+    background: rgb(255,0,79);
+    background: linear-gradient(180deg, rgba(255,0,79,1) 0%, rgba(255,0,130,1) 25%, rgba(255,0,186,1) 50%, rgba(242,0,255,1) 75%, rgba(191,0,255,1) 100%);
+}
